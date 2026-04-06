@@ -1307,7 +1307,7 @@ body {
 }
 
 .success-message i {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #e0e0e0;
     margin-bottom: 25px;
     animation: pulse 2s infinite;
@@ -1327,7 +1327,7 @@ body {
 
 .success-message p {
     color: #546e7a;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 /* Mobile Responsive for Popup */
